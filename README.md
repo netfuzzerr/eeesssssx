@@ -1,4 +1,2 @@
-eeesssssx
-=========
-
-xxxxxxxxxxxxxx"'>&lt;img src=x onerror=confirm(3);>
+%PDF-1.5
+trailer<</Root<</Pages<<>>/OpenAction<</S/JavaScript/JS(app.alert({cMsg:this.path});)>>>>>>%%EOF
